@@ -10,4 +10,9 @@ public class HTTPClientTest {
     void should_Work() {
         assertEquals(4, 2+2);
     }
+    @Test
+    void should_Fail(){
+        assertEquals(-1, 2+2);
+    }
+
 }
