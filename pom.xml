@@ -76,6 +76,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
+    <encoding>utf-8</encoding>
     </properties>
 
 </project>
